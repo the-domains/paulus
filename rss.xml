@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[paulus]]></title>
         <description><![CDATA[paulus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paulus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 06:08:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 06:09:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paulus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MS HACKATHON - 21 / 22 MEI - AMSTERDAM]]></title>
+            <description><![CDATA[<article><h1>MS HACKATHON - 21 / 22 MEI - AMSTERDAM</h1><p>Help Mobile Doctors and MoveS to beat MS! Do you have a bright idea to better the life of MS patients or to improve medical research? Join Europe's biggest MS beating hackathon today!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f3210d063f0a3a2c9d80ed65f18ddd1ad5e03b7.jpg"></article>]]></description>
+            <link>http://www.mshackathon.nl/</link>
+            <guid isPermaLink="false">187961e8-71b2-472f-9e84-85b7fc962be3</guid>
+            <pubDate>Sat, 21 May 2016 06:09:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comunque... Luxe shawls en riemen]]></title>
             <description><![CDATA[<article><h1>Comunque... Luxe shawls en riemen</h1><p>Comunque... Luxe shawls en riemen, ontworpen en gemaakt met waardering voor stijlvolle accessoires en de vrouwen die ze dragen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48bd67fff102cee6f4314ebd91453e92c138eda6.png"></article>]]></description>
