@@ -1,14 +1,14 @@
-layout_spectrum: 0.7433699304237962
-typography_spectrum: 0.3078512195497751
+layout_spectrum: 0.22693093214184046
+typography_spectrum: 0.6228584586642683
 color:
-  brandStrength: 0.06454919092357159
-  lightness: 0.9450658252462745
-  saturation: 0.32515684189274907
-  rhythmicContrast: 0.7061442320700735
+  brandStrength: 0.02108629676513374
+  lightness: 0.10651042871177197
+  saturation: 0.31524806353263557
+  rhythmicContrast: 0.9251790314447135
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
 name: paulus
